@@ -51,7 +51,7 @@
 .right_block {
     width: 462px;
     height: 527px;
-    background-image: url("../img/right-block.png");
+    background-image: url("img/right-block.png");
     display: flex;
     align-items: center;
 }
